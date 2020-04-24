@@ -1,3 +1,9 @@
+*Code provided for published paper. The population is different from the one selected in the thesis.
+*de Oliveira Costa J, Schaffer AL, Medland NA, Litchfield M, Narayan SW, Guy R,
+*McManus H, Pearson SA. Adherence to Antiretroviral Regimens in Australia: A
+*Nationwide Cohort Study. AIDS Patient Care STDS. 2020 Feb;34(2):81-91. doi:
+*10.1089/apc.2019.0278. PubMed PMID: 32049558.;
+
 OPTIONS NOFMTERR;
 libname pub 'Z:\PBS 10% Sample\Projects\HAART (JC)\pub';
 Libname up 'Z:\PBS 10% Sample\Projects\HAART (JC)\up';
